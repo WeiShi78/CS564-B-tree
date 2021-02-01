@@ -1,0 +1,2 @@
+The design report is named Team31 Design Report.pdf, which is located in the same place of the codes.
+The tests are in main.cpp, test4 and test5 are the new tests. Running badgerdb_main will successfully run our tests.
